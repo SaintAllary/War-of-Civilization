@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Map">
+      <UniqueIdentifier>{f693efec-8930-4750-956f-c062dc4dc90d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map\Terrains">
+      <UniqueIdentifier>{180e6789-c533-49cd-a060-b9a17f625e0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map\Terrains\All">
+      <UniqueIdentifier>{238db791-bc12-4429-b50a-2079c22c2c31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map\Resourse">
+      <UniqueIdentifier>{da35aa0d-9f0c-4c0a-8eec-e7a7a05e5cd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map\Resourse\All">
+      <UniqueIdentifier>{3c0e0e20-e9a4-4e45-9936-4578f689ea39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Units">
+      <UniqueIdentifier>{e868262c-a863-48e1-a0d1-f5cb390abf89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Units\Parent Unit">
+      <UniqueIdentifier>{d0c4990a-a536-43b8-8b7e-1d59740fd51b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies">
+      <UniqueIdentifier>{1457c6a6-802e-4240-958d-0de8cc48064f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Parent">
+      <UniqueIdentifier>{8ea8d13c-bca8-451d-94b4-e928dbfadac6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs">
+      <UniqueIdentifier>{76dbc0fa-0cb5-4f1c-adaa-9c6742b80d4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\Alphabet">
+      <UniqueIdentifier>{007eedc5-e7f1-45aa-81a8-239a64a37ef3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\BronzeWorking">
+      <UniqueIdentifier>{883e57af-c182-4baa-86e5-fd824074df55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\CeremonialBurial">
+      <UniqueIdentifier>{eadd89c3-d2a9-4041-8c64-28196071af34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\Currency">
+      <UniqueIdentifier>{a0852d25-35b8-46eb-bc67-a415efe44657}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\CodeofLaws">
+      <UniqueIdentifier>{8e81b7b3-5ff6-48ee-a750-531e51f5bd78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\HorsebackRiding">
+      <UniqueIdentifier>{b04c0b1c-341b-4f91-a9cb-caa879e81882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\IronWorking">
+      <UniqueIdentifier>{e260bd9c-14ba-4cb8-8865-f5d8ac6b302d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\MapMaking">
+      <UniqueIdentifier>{14b6ab82-4431-4e18-a08e-0f7620f2d629}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\Masonry">
+      <UniqueIdentifier>{982b5daa-89c4-4ef1-81cf-fc18b7def534}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\Mathematics">
+      <UniqueIdentifier>{55e7cb95-2a57-476b-b3a7-3cb1e7a77a9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\Monarchy">
+      <UniqueIdentifier>{bc6827dc-c2c8-4c5a-828b-d0d39813f4d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\Mysticism">
+      <UniqueIdentifier>{14ef6ce6-c4ed-4d20-863e-44b5b09b14af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\Trade">
+      <UniqueIdentifier>{0f06af5c-7c1d-4bf5-b54e-12da4142702b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Technologies\Childs\Writing">
+      <UniqueIdentifier>{192c5e03-44bd-4eb7-bc13-d076802c662b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{12c9acb7-130b-457b-b8cb-fe18b828deac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Town">
+      <UniqueIdentifier>{9f1359a7-14c9-4233-8ac4-9d2864ab771b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Actor">
+      <UniqueIdentifier>{b587c77a-c972-4405-a4c8-b24ff321c65f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\GameManager">
+      <UniqueIdentifier>{e4fb861c-3d8a-4302-90c3-40619836e777}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\WindowManager">
+      <UniqueIdentifier>{362be47f-2a8b-4641-8500-1cf3313ce36a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildings">
+      <UniqueIdentifier>{49aa60a6-290c-437d-ae3c-64960a53b8eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildings\Parent">
+      <UniqueIdentifier>{c0d5fb25-f9ca-43f1-8d91-46594680d6b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildings\Child">
+      <UniqueIdentifier>{43aa552f-b74b-477a-b92e-2f3cf11746d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildings\Child\Aqueduct">
+      <UniqueIdentifier>{cdf3f7ac-3a71-4dac-91a5-d65754978ffc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildings\Child\Barracks">
+      <UniqueIdentifier>{05de0430-459b-41c2-84ef-547ba6862162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildings\Child\Marketplace">
+      <UniqueIdentifier>{ebdfdcf8-f093-450d-ab87-dc68bc7146b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildings\Child\CityWalls">
+      <UniqueIdentifier>{d1a6d879-a065-4c2f-9c3f-a975c71e1b6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildings\Child\Library">
+      <UniqueIdentifier>{479fb0a5-5145-4939-964c-8fbc221ec096}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{f6392d5d-7037-46a7-b1fb-42cc3b5ee801}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Actor\AI">
+      <UniqueIdentifier>{d1bfa892-d7a1-4641-96ae-5c983ba0cccc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Units\Parent Unit\Childs">
+      <UniqueIdentifier>{0b84d046-fa1b-43a6-9da1-fa17827a733d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Units\Parent Unit\Childs\Legion">
+      <UniqueIdentifier>{7b4c6142-4f77-4a09-8c9b-ba7a37344a24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Units\Parent Unit\Childs\Militia">
+      <UniqueIdentifier>{98431bd5-bd63-484c-830b-68e5d5e23230}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Units\Parent Unit\Childs\Cavalry">
+      <UniqueIdentifier>{89f30964-4007-4b55-b415-873d6218380b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Units\Parent Unit\Childs\Settlers">
+      <UniqueIdentifier>{5d7b5a5f-f208-441c-b660-589b4a6e3321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Units\Parent Unit\Childs\Chariot">
+      <UniqueIdentifier>{77a53d09-ce06-4394-afa0-bb1c247953a9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Resourses.cpp">
+      <Filter>Map\Resourse</Filter>
+    </ClCompile>
+    <ClCompile Include="Forest.cpp">
+      <Filter>Map\Terrains\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Grassland.cpp">
+      <Filter>Map\Terrains\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Hills.cpp">
+      <Filter>Map\Terrains\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Mountain.cpp">
+      <Filter>Map\Terrains\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>Map\Terrains</Filter>
+    </ClCompile>
+    <ClCompile Include="Coal.cpp">
+      <Filter>Map\Resourse\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Map\Resourse\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Gold.cpp">
+      <Filter>Map\Resourse\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Horses.cpp">
+      <Filter>Map\Resourse\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Oasis.cpp">
+      <Filter>Map\Resourse\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Oil.cpp">
+      <Filter>Map\Resourse\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>Units\Parent Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="Technologies.cpp">
+      <Filter>Technologies\Parent</Filter>
+    </ClCompile>
+    <ClCompile Include="Ocean.cpp">
+      <Filter>Map\Terrains\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Legion.cpp">
+      <Filter>Units\Parent Unit\Childs\Legion</Filter>
+    </ClCompile>
+    <ClCompile Include="Militia.cpp">
+      <Filter>Units\Parent Unit\Childs\Militia</Filter>
+    </ClCompile>
+    <ClCompile Include="Alphabet.cpp">
+      <Filter>Technologies\Childs\Alphabet</Filter>
+    </ClCompile>
+    <ClCompile Include="Currency.cpp">
+      <Filter>Technologies\Childs\Currency</Filter>
+    </ClCompile>
+    <ClCompile Include="BronzeWorking.cpp">
+      <Filter>Technologies\Childs\BronzeWorking</Filter>
+    </ClCompile>
+    <ClCompile Include="Ceremonial_Burial.cpp">
+      <Filter>Technologies\Childs\CeremonialBurial</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeOfLaws.cpp">
+      <Filter>Technologies\Childs\CodeofLaws</Filter>
+    </ClCompile>
+    <ClCompile Include="Horseback_Riding.cpp">
+      <Filter>Technologies\Childs\HorsebackRiding</Filter>
+    </ClCompile>
+    <ClCompile Include="IronWorking.cpp">
+      <Filter>Technologies\Childs\IronWorking</Filter>
+    </ClCompile>
+    <ClCompile Include="MapMaking.cpp">
+      <Filter>Technologies\Childs\MapMaking</Filter>
+    </ClCompile>
+    <ClCompile Include="Mathematics.cpp">
+      <Filter>Technologies\Childs\Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Masonry.cpp">
+      <Filter>Technologies\Childs\Masonry</Filter>
+    </ClCompile>
+    <ClCompile Include="Monarchy.cpp">
+      <Filter>Technologies\Childs\Monarchy</Filter>
+    </ClCompile>
+    <ClCompile Include="Mysticism.cpp">
+      <Filter>Technologies\Childs\Mysticism</Filter>
+    </ClCompile>
+    <ClCompile Include="Trade.cpp">
+      <Filter>Technologies\Childs\Trade</Filter>
+    </ClCompile>
+    <ClCompile Include="Writing.cpp">
+      <Filter>Technologies\Childs\Writing</Filter>
+    </ClCompile>
+    <ClCompile Include="Cavalry.cpp">
+      <Filter>Units\Parent Unit\Childs\Cavalry</Filter>
+    </ClCompile>
+    <ClCompile Include="Settlers.cpp">
+      <Filter>Units\Parent Unit\Childs\Settlers</Filter>
+    </ClCompile>
+    <ClCompile Include="Building.cpp">
+      <Filter>Buildings\Parent</Filter>
+    </ClCompile>
+    <ClCompile Include="Aqueduct.cpp">
+      <Filter>Buildings\Child\Aqueduct</Filter>
+    </ClCompile>
+    <ClCompile Include="Barracks.cpp">
+      <Filter>Buildings\Child\Barracks</Filter>
+    </ClCompile>
+    <ClCompile Include="Marketplace.cpp">
+      <Filter>Buildings\Child\Marketplace</Filter>
+    </ClCompile>
+    <ClCompile Include="CityWalls.cpp">
+      <Filter>Buildings\Child\CityWalls</Filter>
+    </ClCompile>
+    <ClCompile Include="Library.cpp">
+      <Filter>Buildings\Child\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="Town.cpp">
+      <Filter>Town</Filter>
+    </ClCompile>
+    <ClCompile Include="Actor.cpp">
+      <Filter>System\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>System\GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowManager.cpp">
+      <Filter>System\WindowManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="AI.cpp">
+      <Filter>System\Actor\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="Plains.cpp">
+      <Filter>Map\Terrains\All</Filter>
+    </ClCompile>
+    <ClCompile Include="Chariot.cpp">
+      <Filter>Units\Parent Unit\Childs\Chariot</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resourses.h">
+      <Filter>Map\Resourse</Filter>
+    </ClInclude>
+    <ClInclude Include="Forest.h">
+      <Filter>Map\Terrains\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Grassland.h">
+      <Filter>Map\Terrains\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Hills.h">
+      <Filter>Map\Terrains\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Mountain.h">
+      <Filter>Map\Terrains\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>Map\Terrains</Filter>
+    </ClInclude>
+    <ClInclude Include="Oil.h">
+      <Filter>Map\Resourse\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Coal.h">
+      <Filter>Map\Resourse\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Map\Resourse\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Gold.h">
+      <Filter>Map\Resourse\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Horses.h">
+      <Filter>Map\Resourse\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Oasis.h">
+      <Filter>Map\Resourse\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>Units\Parent Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="Technologies.h">
+      <Filter>Technologies\Parent</Filter>
+    </ClInclude>
+    <ClInclude Include="Ocean.h">
+      <Filter>Map\Terrains\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Legion.h">
+      <Filter>Units\Parent Unit\Childs\Legion</Filter>
+    </ClInclude>
+    <ClInclude Include="Militia.h">
+      <Filter>Units\Parent Unit\Childs\Militia</Filter>
+    </ClInclude>
+    <ClInclude Include="Alphabet.h">
+      <Filter>Technologies\Childs\Alphabet</Filter>
+    </ClInclude>
+    <ClInclude Include="Currency.h">
+      <Filter>Technologies\Childs\Currency</Filter>
+    </ClInclude>
+    <ClInclude Include="BronzeWorking.h">
+      <Filter>Technologies\Childs\BronzeWorking</Filter>
+    </ClInclude>
+    <ClInclude Include="Ceremonial_Burial.h">
+      <Filter>Technologies\Childs\CeremonialBurial</Filter>
+    </ClInclude>
+    <ClInclude Include="CodeOfLaws.h">
+      <Filter>Technologies\Childs\CodeofLaws</Filter>
+    </ClInclude>
+    <ClInclude Include="Horseback_Riding.h">
+      <Filter>Technologies\Childs\HorsebackRiding</Filter>
+    </ClInclude>
+    <ClInclude Include="IronWorking.h">
+      <Filter>Technologies\Childs\IronWorking</Filter>
+    </ClInclude>
+    <ClInclude Include="MapMaking.h">
+      <Filter>Technologies\Childs\MapMaking</Filter>
+    </ClInclude>
+    <ClInclude Include="Masonry.h">
+      <Filter>Technologies\Childs\Masonry</Filter>
+    </ClInclude>
+    <ClInclude Include="Mathematics.h">
+      <Filter>Technologies\Childs\Mathematics</Filter>
+    </ClInclude>
+    <ClInclude Include="Monarchy.h">
+      <Filter>Technologies\Childs\Monarchy</Filter>
+    </ClInclude>
+    <ClInclude Include="Mysticism.h">
+      <Filter>Technologies\Childs\Mysticism</Filter>
+    </ClInclude>
+    <ClInclude Include="Trade.h">
+      <Filter>Technologies\Childs\Trade</Filter>
+    </ClInclude>
+    <ClInclude Include="Writing.h">
+      <Filter>Technologies\Childs\Writing</Filter>
+    </ClInclude>
+    <ClInclude Include="Cavalry.h">
+      <Filter>Units\Parent Unit\Childs\Cavalry</Filter>
+    </ClInclude>
+    <ClInclude Include="Settlers.h">
+      <Filter>Units\Parent Unit\Childs\Settlers</Filter>
+    </ClInclude>
+    <ClInclude Include="Building.h">
+      <Filter>Buildings\Parent</Filter>
+    </ClInclude>
+    <ClInclude Include="Aqueduct.h">
+      <Filter>Buildings\Child\Aqueduct</Filter>
+    </ClInclude>
+    <ClInclude Include="Barracks.h">
+      <Filter>Buildings\Child\Barracks</Filter>
+    </ClInclude>
+    <ClInclude Include="CityWalls.h">
+      <Filter>Buildings\Child\CityWalls</Filter>
+    </ClInclude>
+    <ClInclude Include="Library.h">
+      <Filter>Buildings\Child\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Town.h">
+      <Filter>Town</Filter>
+    </ClInclude>
+    <ClInclude Include="Actor.h">
+      <Filter>System\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>System\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowManager.h">
+      <Filter>System\WindowManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Marketplace.h">
+      <Filter>Buildings\Child\Marketplace</Filter>
+    </ClInclude>
+    <ClInclude Include="AI.h">
+      <Filter>System\Actor\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="Plains.h">
+      <Filter>Map\Terrains\All</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="path.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="Chariot.h">
+      <Filter>Units\Parent Unit\Childs\Chariot</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
