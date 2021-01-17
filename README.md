@@ -1,4 +1,6 @@
 [FIRST COURSE WORK]
+#C #C++ #OpenGL #Cource Work #SFML #Game #Team project
+
 
 We with my friend after learning programming for 3 month wanted to create some game </br>
 UE4 is too hard to learn in short terms, that is why we decide to use some kind of graphic lib </br>
@@ -10,8 +12,8 @@ native event loop and we have to work with it</br>
  
  </br>Concept was of creating clone of legendary game Civilization 1 </br>
  </br>I don't think that any of u'll check this repo, that is why </br>
- I won't write about inteface because I have to write a lot about it </br>
- I just wil say that we did to much, my friend had a lot of problems </br>
+ I won't write about inteface a lot</br>
+ I just will say that we did to much, my friend had a lot of problems </br>
  that is why I wrote 70% of project by myself </br>
  
   </br>In short preview we can: </br>
@@ -21,10 +23,38 @@ native event loop and we have to work with it</br>
   -Exit
 
  </br>In game we cat: </br>
--Open on tab watching of hotkeys </br> </br>
+-Press esc to see menu
+-Press enter to skipp turn
+-Press tab to watch hotkeys </br> </br>
 -Build town </br>
 -Destroy town </br>
--Take over the town </br>
--Build several units with several features
+-Take over the town (and build in this town building and new units </br>
+-Build several units with several features </br>
+-Units can: move,attack,sleep,regenerate(not all units and only in town) (every units take supply and money to contain them)
 
-#C #C++ #OpenGL #Cource Work #SFML #Game #Team project
+</br>More about town:</br>
+-Town that you build or take over will produce you: supply, money,science,culture</br>
+-All produced thigs depends on the position (point on the map)</br>
+-Every town know what kind of units he produced, where they are and how much money it needs to contain them</br>
+-Every town can build several building that can boost a lot, for example wall give you a lot of protection</br>
+(Example: Imagine that town was build on the hill and without walls 2 legioners can take over it, but</br>
+with walls even 5 legioners can be defeated vs town)
+-On mountains (or any high ground) protection is much more higher, but on low ground production is more high
+
+</br>More about terrain and map:</br>
+-Map is generated with some kind of Perlin Noise (algoritm you can google)
+-Every cell of map has it's own terrain and features that can give more production,protection,gold,science etc.
+
+</br>More about mechanics:</br>
+-Fight any unit or town vs same depends on protection,position of the map, and it's own hp and armor
+-Armor and health can be hit and only in town you can regenarate it
+-After every kill unit get some rang and this rang boost his attack and armor max-lvl
+-Surrounding give you boost of attack 
+
+
+
+(I hope I recall all about game,wrote it year ago and maybe forget smth)
+
+
+
+
