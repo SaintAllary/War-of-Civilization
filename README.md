@@ -67,5 +67,6 @@ with walls even 5 legioners can be defeated vs town)
 ![Image alt](https://github.com/SaintAllary/War-of-Civilization/raw/master/ImagesGit/9.jpg)
 ![Image alt](https://github.com/SaintAllary/War-of-Civilization/raw/master/ImagesGit/10.jpg)
 ![Image alt](https://github.com/SaintAllary/War-of-Civilization/raw/master/ImagesGit/11.jpg)
-![Image alt](https://github.com/SaintAllary/War-of-Civilization/raw/master/ImagesGit/112.jpg)
+![Image alt](https://github.com/SaintAllary/War-of-Civilization/raw/master/ImagesGit/12.jpg)
+![Image alt](https://github.com/SaintAllary/War-of-Civilization/raw/master/ImagesGit/13.jpg)
 
