@@ -51,7 +51,9 @@ with walls even 5 legioners can be defeated vs town)
 -After every kill unit get some rang and this rang boost his attack and armor max-lvl
 -Surrounding give you boost of attack 
 
-</br>Game saves in file *.tlog* that will contain all algoritm of saving and values)
+</br>Game saves in file *.tlog* that will contain all algorithm of saving and values)</br>
+
+</br>AI isn't very clever, but it always try to build town on the best place, and find enemies</br>
 
 (I hope I recall all about game,wrote it year ago and maybe forget smth)
 
