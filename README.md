@@ -52,6 +52,7 @@ with walls even 5 legioners can be defeated vs town)
 -Surrounding give you boost of attack 
 
 </br>Game saves in file *.tlog* that will contain all algorithm of saving and values)</br>
+</br>Game has log system on f1</br>
 
 </br>AI isn't very clever, but it always try to build town on the best place, and find enemies</br>
 
