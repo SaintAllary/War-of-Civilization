@@ -34,7 +34,7 @@ native event loop and we have to work with it</br>
 
 </br>More about town:</br>
 -Town that you build or take over will produce you: supply, money,science,culture</br>
--All produced things depends on the position (point on the map)</br>
+-All produced things depend on the position (point on the map)</br>
 -Every town know what kind of units he produced, where they are and how much money it needs to contain them</br>
 -Every town can build several building that can boost a lot, for example wall give you a lot of protection</br>
 (Example: Imagine that town was build on the hill and without walls 2 legioners can take over it, but</br>
