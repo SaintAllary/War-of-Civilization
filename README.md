@@ -1,5 +1,5 @@
 [COURSE WORK]</br>
-#C #C++ #OpenGL #Cource Work #SFML #Game #Team project</br>
+#C #C++ #OpenGL #Course Work #SFML #Game #Team project</br>
 
 
 We with my friend after learning programming for 3 month wanted to create some game </br>
